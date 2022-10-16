@@ -1,0 +1,106 @@
+D:\Fourth Year\Khóa Luận\Khóa Luận Môn Học\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe.config
+D:\Fourth Year\Khóa Luận\Khóa Luận Môn Học\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe
+D:\Fourth Year\Khóa Luận\Khóa Luận Môn Học\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.pdb
+D:\Fourth Year\Khóa Luận\Khóa Luận Môn Học\QuanLyQuanCaPhe\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Fourth Year\Khóa Luận\Khóa Luận Môn Học\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csprojResolveAssemblyReference.cache
+D:\Fourth Year\Khóa Luận\Khóa Luận Môn Học\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Form1.resources
+D:\Fourth Year\Khóa Luận\Khóa Luận Môn Học\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.FrmLogin.resources
+D:\Fourth Year\Khóa Luận\Khóa Luận Môn Học\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Properties.Resources.resources
+D:\Fourth Year\Khóa Luận\Khóa Luận Môn Học\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.GenerateResource.Cache
+D:\Fourth Year\Khóa Luận\Khóa Luận Môn Học\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.exe
+D:\Fourth Year\Khóa Luận\Khóa Luận Môn Học\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.pdb
+D:\Fourth Year\Khóa Luận\Khóa Luận Môn Học\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.FrmPOS.resources
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe.config
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.exe
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.pdb
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.exe
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\QuanLyQuanCaPhe.pdb
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.FrmLogin.resources
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.FrmPOS.resources
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.Properties.Resources.resources
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csproj.GenerateResource.Cache
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.Licensing.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.Utils.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\EasyTabs.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Microsoft.WindowsAPICodePack.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Svg.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Win32Interop.Dwmapi.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Win32Interop.Gdi32.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Win32Interop.Kernel32.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Win32Interop.User32.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Win32Interop.Uxtheme.dll
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\EasyTabs.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Svg.pdb
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Svg.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Win32Interop.Dwmapi.pdb
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Win32Interop.Gdi32.pdb
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Win32Interop.Gdi32.xml
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Win32Interop.Kernel32.pdb
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Win32Interop.User32.pdb
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\bin\Debug\Win32Interop.Uxtheme.pdb
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.FormMainMenu.resources
+E:\HK7_2022_2023\KhoaLuan_01\QuanLyQuanCaPhe\obj\Debug\QuanLyQuanCaPhe.csprojResolveAssemblyReference.cache
